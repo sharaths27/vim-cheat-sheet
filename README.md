@@ -42,15 +42,21 @@ set showmode
 
 Search Options
 set hlsearch: Enable search highlighting.
+
 set ignorecase: Ignore case when searching.
+
 set incsearch: Incremental search that shows partial matches.
+
 set smartcase: Automatically switch search to case-sensitive when search query contains an uppercase letter.
 
 
 
 syntax enable: Enable syntax highlighting.
+
 set ruler: Always show cursor position.
+
 set mouse=a: Enable mouse for scrolling and resizing.
+
 set spell: Enable spellchecking
 set noswapfile: Disable swap files.
 
